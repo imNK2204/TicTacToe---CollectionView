@@ -4,7 +4,7 @@
 
 Simple Funny TicTacToe Game Using Collection View
 
-*It's 4x4 TicTacToe app using a Collection View
+*It's 4x4 TicTacToe app using a Collection View*
 
 ### Working With
 
